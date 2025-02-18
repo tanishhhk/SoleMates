@@ -38,16 +38,16 @@ SoleMate is a fictional e-commerce platform designed to showcase a variety of at
 This project is designed to be viewed directly in a web browser.  No server-side setup is required.
 
 1. Clone the repository: `git clone https://github.com/tanishhhk/solemate.git`
-2. Open the `home.html` file in your preferred web browser.
+2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
-Simply open the `home.html` file in your browser to explore the SoleMate website.  You can browse the product catalog, read fictional customer reviews, and navigate between different sections of the site.
+Simply open the `index.html` file in your browser to explore the SoleMate website.  You can browse the product catalog, read fictional customer reviews, and navigate between different sections of the site.
 
 ## Project Structure
 
 solemate/
-├── home.html          // Main HTML file
+├── index.html          // Main HTML file
 ├── style.css           // CSS stylesheet
 └── README.md           // This file
 
