@@ -49,8 +49,6 @@ Simply open the `home.html` file in your browser to explore the SoleMate website
 solemate/
 ├── index.html          // Main HTML file
 ├── style.css           // CSS stylesheet
-├── script.js          // JavaScript file (if used)
-├── images/             // Directory for product images (placeholders)
 └── README.md           // This file
 
 
