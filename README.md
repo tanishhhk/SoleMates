@@ -47,7 +47,7 @@ Simply open the `home.html` file in your browser to explore the SoleMate website
 ## Project Structure
 
 solemate/
-├── index.html          // Main HTML file
+├── home.html          // Main HTML file
 ├── style.css           // CSS stylesheet
 └── README.md           // This file
 
