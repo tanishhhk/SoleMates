@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-image: url('backimg.jpg');
+    color: white;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+a {
+    display: block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.home-content {
+    padding: 20px;
+    flex: 1;
+}
+
+.home-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.home-section span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.disclaimer {
+    font-size: smaller;
+    color: gray;
+}

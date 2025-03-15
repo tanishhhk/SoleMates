@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-image: url('backimg.jpg');
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0.589);
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-size: 20px;
+}
+
+a {
+    display: block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+table {
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table td {
+    text-align: center;
+    padding: 10px;
+}
+
+table a {
+    display: inline;
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.disclaimer {
+    font-size: smaller;
+    color: gray;
+}
+
+.contact-content {
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+}
+
+.contact-content span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.contact-content a[href^="mailto:"] {
+    color: white;
+    text-decoration: underline;
+}
