@@ -18,25 +18,6 @@ a {
     font-size: 20px;
 }
 
-table {
-    background-color: white;
-    padding: 10px;
-    width: 100%;
-    border-collapse: collapse;
-}
-
-table td {
-    text-align: center;
-    padding: 10px;
-}
-
-table a {
-    display: inline;
-    margin: 0 10px;
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-}
 
 h1 {
     font-size: 40px;
