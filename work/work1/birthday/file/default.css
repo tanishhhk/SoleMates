@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('../Pic\ 1.jpg'),url('../Pic\ 4.png') , url('../Pic\ 3.png');
+  background-position: right top , center top, left top;
+  background-size: contain;
+  background-size: 70vh , 70vh ,70vh;
+  background-repeat: no-repeat ,no-repeat , no-repeat;
+  font-size: 14px;
+  font-family: sans-serif;
+  color: white;
+  overflow: auto;
+}
+a {
+  color: white;
+  font-size: 14px;
+}
+#main {
+  width: 100%;
+}
+#wrap {
+  position: relative;
+  margin: 0 auto;
+  width: 1100px;
+  height: 680px;
+  margin-top: 10px;
+}
+#text {
+  width: 272px;
+  height: 560px;
+  left: 250px;
+  top: 30px;
+  position: absolute;
+}
+#code {
+  display: none;
+  color: rgb(255, 0, 174);
+  font-size: 40px;
+  margin-top: 70px;
+  line-height: 25px;
+
+}
+#clock-box {
+  position: absolute;
+  left: 60px;
+  top: 550px;
+  font-size: 28px;
+  display: none;
+}
+#clock-box a {
+  font-size: 28px;
+  text-decoration: none;
+}
+#clock {
+  margin-left: 48px;
+}
+#clock .digit {
+  font-size: 64px;
+}
+#canvas {
+  margin: 0 auto;
+  width: 1100px;
+  height: 680px;
+}
+#error {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 60px;
+  display: none;
+}
+.hand {
+  cursor: pointer;
+}
+.say {
+  margin-right: 5px;
+  font-size: 20px;
+  background-color: bisque;
+  padding: 7px;
+  
+}
+.space {
+  margin-right: 150px;
+}
+
+#message-box{
+  position: absolute;
+  margin-top:450px;
+  font-size: 25px;
+  font-family: monospace;
+
+}
